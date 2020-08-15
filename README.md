@@ -1,9 +1,8 @@
-# myPRNet-PyTorch
-#### Simple implementation of PRNet (PyTorch version)
-
----
+### Simple implementation of PRNet (torch version)
 
 - *Notice:* This project is based on ***PyTorch***. And ***tensorflow version*** is ***[here](https://github.com/MouxiaoHuang/myPRNet)***.
+
+---
 
 ##### 1. Environment required
 
@@ -24,7 +23,7 @@
 
 ---
 
-Thanks for these contributers and their excellent:
+Thanks for these contributers and their excellent works:
 
 - [YadiraF/PRNet](https://github.com/YadiraF/PRNet)
 - [YadiraF/face3d](https://github.com/YadiraF/face3d)
